@@ -44,4 +44,3 @@ The [DIP](https://dip.bundestag.de/) stores information on all parliamentary pro
 - [Dr. Elisa Deiss-Helbig](https://ecpr.eu/profile/ElisaDeiss-Helbig), Universität Konstanz
 - [Dr. Ansgar Huddde](https://iss-wiso.uni-koeln.de/de/institut/personen/h/dr-ansgar-hudde), Universität Köln
 - [Dr. Elke Wiechmann](https://www.fernuni-hagen.de/polis/lg4/team/elke.wiechmann.shtml), Fernuniversität Hagen
-- Sophie Gumy, Technical Officer at WHO's Department of Environment, Climate Change, and Health
